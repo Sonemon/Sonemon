@@ -4,10 +4,12 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="transform: scaleX(-1);">
 </div>
 
-## About Me 🌟 <img src="https://media1.tenor.com/m/gemkKW3KTNkAAAAd/solo-leveling.gif" width="50">
+## About Me 🌟
 
 Hey there! I'm **Sonemon**, a passionate Python developer in the making since mid-2024! 🐍✨
+## My skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,bots,django,fastapi,docker,git)](https://skillicons.dev)
+--
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h6Zzd0NjZsYzlqdWVlemlvZmt3aDE1MGpqcXRudGd0ajV1aGdsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XWeJDaxYa1YrK/giphy.gif" width="200"/>
 
@@ -30,37 +32,15 @@ Hey there! I'm **Sonemon**, a passionate Python developer in the making since mi
 - 🛼 Roller skating
 - 🎮 PC games
 
-## 📚 My Projects and Interests
-
-[![GeekPlanet](https://github-readme-stats.vercel.app/api/pin/?username=Sonemon&repo=GeekPlanet&theme=radical)](https://github.com/Sonemon/GeekPlanet)  
-[![PlanetariumAPI](https://github-readme-stats.vercel.app/api/pin/?username=Sonemon&repo=py-drf-PlanetariumAPI&theme=radical)](https://github.com/Sonemon/py-drf-PlanetariumAPI)
-
-## I keep a list of IT books I've read:
-
+## 📚 My Projects:
 
 <div align="center">
-<a href="books/README.md" style="text-decoration:none">
-  <div style="
-    padding: 15px;
-    margin: 10px 0;
-    border-radius: 10px;
-    background: linear-gradient(135deg, #6e8efb, #a777e3);
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    transition: transform 0.3s;
-    width: 80%;
-    max-width: 500px;
-  ">
-    My books library 
-    <br>
-    <small style="opacity:0.8">(Click to see the list)</small>
-  </div>
-</a>
+
+[![GeekPlanet](https://github-readme-stats.vercel.app/api/pin/?username=Sonemon&repo=GeekPlanet&theme=shades-of-purple)](https://github.com/Sonemon/GeekPlanet) [![PlanetariumAPI](https://github-readme-stats.vercel.app/api/pin/?username=Sonemon&repo=py-drf-PlanetariumAPI&theme=shades-of-purple)](https://github.com/Sonemon/py-drf-PlanetariumAPI)
+
 </div>
 
----
+## I keep a list of IT books I've read --> [![My Books Library](https://img.shields.io/badge/My_Books_Library-Click_Here-6e8efb?style=for-the-badge&logo=bookstack&logoColor=white)](books/README.md)
 
 ## 🌐 Socials
 
