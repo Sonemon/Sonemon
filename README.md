@@ -1,18 +1,20 @@
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Welcome to my GitHub page!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center" style="font-size: 24px;">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6419fa&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Python+Developer;Anime+and+Games+Lover" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="transform: scaleX(-1);">
 </div>
 
-## About Me 🌟
+## About Me 🌟 <img src="https://media1.tenor.com/m/gemkKW3KTNkAAAAd/solo-leveling.gif" width="50">
 
 Hey there! I'm **Sonemon**, a passionate Python developer in the making since mid-2024! 🐍✨
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,bots,django,fastapi,docker,git)](https://skillicons.dev)
 
-<img align="right" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="200"/>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h6Zzd0NjZsYzlqdWVlemlvZmt3aDE1MGpqcXRudGd0ajV1aGdsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XWeJDaxYa1YrK/giphy.gif" width="200"/>
 
 ### 🚀 Current Focus
 
-- 📚 Learning Python at Mate Academy
+- 📚 Learning Python at Mate
+  Academy <img src="https://play-lh.googleusercontent.com/z-zHpsLw57zNu0mLRou3qr9wV8Q21aQJP8yYpcAl1qnGg3zm9gG1irU_LMFAUcoWmkU=w240-h480-rw" width="15">
 - 💻 Building personal projects
 - 📖 Reading tech books and expanding knowledge
 - 🌱 Growing every day as a developer
@@ -21,23 +23,70 @@ Hey there! I'm **Sonemon**, a passionate Python developer in the making since mi
 
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 
-- 🎭 Anime enthusiast
-- 🎬 Movies & TV series fan
-- 🏊‍♂️ Swimming
-- 🚴‍♂️ Cycling adventures
-- ⛸️ Ice skating
+- 🎌 Anime & Manga
+- 🎬 Movies & TV series
+- 🏊‍♂️ Swimming & Cycling
 - 🎿 Skiing & Snowboarding
 - 🛼 Roller skating
+- 🎮 PC games
 
-## 📚 Projects and Interests
+## 📚 My Projects and Interests
 
-- [My Library](books/README.md) - List of books I'm reading, have read, or plan to read
-- More exciting projects coming soon! 🔥
+[![GeekPlanet](https://github-readme-stats.vercel.app/api/pin/?username=Sonemon&repo=GeekPlanet&theme=radical)](https://github.com/Sonemon/GeekPlanet)  
+[![PlanetariumAPI](https://github-readme-stats.vercel.app/api/pin/?username=Sonemon&repo=py-drf-PlanetariumAPI&theme=radical)](https://github.com/Sonemon/py-drf-PlanetariumAPI)
+
+## I keep a list of IT books I've read:
+
+
+<div align="center">
+<a href="books/README.md" style="text-decoration:none">
+  <div style="
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+    width: 80%;
+    max-width: 500px;
+  ">
+    My books library 
+    <br>
+    <small style="opacity:0.8">(Click to see the list)</small>
+  </div>
+</a>
+</div>
 
 ---
 
+## 🌐 Socials
+
+<p align="center">
+  <a href="mailto:mrgl.pda.dev@gmail.com">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="60" alt="Email">
+  </a>
+  <a href="https://t.me/mrgl_dev">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="60" alt="Telegram">
+  </a>
+  <a href="https://www.linkedin.com/in/mrgl-mrgl-mrgl/">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="60" alt="LinkedIn">
+  </a>
+  <a href="https://discordapp.com/users/976193936261541998/">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="60" alt="LinkedIn">
+  </a>
+  <a href="https://steamcommunity.com/id/Bankai_MRGL/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="60" alt="LinkedIn">
+  </a>
+</p>
+
+---
 <div align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
-  
-  *"The only way to do great work is to love what you do"* 💫
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonemon&layout=compact&theme=radical)
+
+### *"The only way to do great work is to love what you do"* 💫
+
 </div>
