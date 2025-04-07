@@ -65,7 +65,7 @@ Hey there! I'm **Sonemon**, a passionate Python developer in the making since mi
 ## 🌐 Socials
 
 <p align="center">
-  <a href="mailto:mrgl.pda.dev@gmail.com">
+  <a href="https://mail.google.com/mail/u/3/?tf=cm&fs=1&to=mrgl.pda.dev@gmail.com">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="60" alt="Email">
   </a>
   <a href="https://t.me/mrgl_dev">
