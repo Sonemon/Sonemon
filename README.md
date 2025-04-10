@@ -1,13 +1,15 @@
 <div align="center" style="font-size: 24px;">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6419fa&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Python+Developer;Anime+and+Games+Lover" alt="Typing Animation" />
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="transform: scaleX(-1);">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6419fa&center=true&vCenter=true&width=500&height=70&lines=👋+Welcome+to+my+GitHub!+👨‍💻;🌆+Python+Developer+🐍;💜+Anime+and+Games+Lover+💜" alt="typing animation" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </div>
 
-## About Me 🌟
+<img src="https://p84.cooltext.com/Rendered/Cool%20Text%20-%20About%20Me%20480273514077898.png" alt="About me" width=200/>
 
-Hey there! I'm **Sonemon**, a passionate Python developer in the making since mid-2024! 🐍✨
-## My skills:
+### Hey there! I'm **Sonemon**, a passionate Python developer in the making since mid-2024! 🐍✨
+
+<img src="https://p84.cooltext.com/Rendered/Cool%20Text%20-%20My%20skills%20480273514077898.png" alt="My skills" width=200/>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,bots,django,fastapi,docker,git)](https://skillicons.dev)
 --
 
